@@ -1,0 +1,6 @@
+[submodule "auth"]
+	path = auth
+	url = https://github.com/westcrime/auth.git
+[submodule "chat-server"]
+	path = chat-server
+	url = https://github.com/westcrime/chat-server.git
